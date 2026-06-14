@@ -1,0 +1,4 @@
+flask
+telethon
+requests
+gunicorn==21.2.0
